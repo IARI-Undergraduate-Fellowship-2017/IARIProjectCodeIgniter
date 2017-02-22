@@ -1,0 +1,39 @@
+{
+  "name": "Spencer Museum of Art",
+  "address": "University of Kansas, 1301 Mississippi St, Lawrence, KS 66045",
+  "floor": [
+    {
+      "level": "3",
+      "gallery": [
+        "Gallery 315",
+        "Gallery 316",
+        "Gallery 317",
+        "Gallery 318",
+        "Gallery 319",
+        "Central Court",
+        "303A Print Study Room",
+        "329",
+        "3C1 Lobby & Hallway",
+        "309 Auditorium",
+        "307 Reception Room"
+      ],
+      "image": "3thFloor.jpg",
+      "imageHeight": 885,
+      "imageWidth": 1731
+    },
+    {
+      "level": "4",
+      "gallery": [
+        "Gallery 401",
+        "Gallery 404",
+        "Gallery 405",
+        "Gallery 406",
+        "Gallery 407",
+        "Gallery 408"
+      ],
+      "image": "4thFloor.jpg",
+      "imageHeight": 777,
+      "imageWidth": 1647
+    }
+  ]
+}
